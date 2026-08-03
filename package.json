@@ -1,0 +1,16 @@
+{
+  "name": "cyber-crime-complaint-system",
+  "version": "1.0.0",
+  "description": "Cyber Crime Complaint Management System MySQL web runner.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
